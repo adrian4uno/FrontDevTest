@@ -1,0 +1,36 @@
+.text-color {
+  color: #633384;
+}
+
+.nav-btn_color {
+  background-color: #633384;
+}
+
+.parallax-container {
+      height: 90vh;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.border-radius{
+  border-radius: 50%;
+}
+
+#paquete4uno{
+  background-image: url("../img/imagen1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#cajaBeneficios {
+  background-image: url("../img/cajasimple.png");
+  background-position: center;
+  height: 120vh;
+}
+
+.mapa{
+  height: 300px;
+  margin-top: 30px;
+}
